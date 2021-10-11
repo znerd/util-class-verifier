@@ -1,6 +1,6 @@
-package com.znerd.utilclassverifier;
+package org.znerd.utilclassverifier;
 
-import com.znerd.utilclassverifier.internal.SingleClassChecker;
+import org.znerd.utilclassverifier.internal.SingleClassChecker;
 import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
 

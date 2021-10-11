@@ -8,7 +8,7 @@ Helper for verifying Java utility classes.
 To use this library with Maven, add this dependency:
 
     <dependency>
-      <groupId>com.znerd</groupId>
+      <groupId>org.znerd</groupId>
       <artifactId>util-class-verifier</artifactId>
       <version>0.2.3</version>
     </dependency>

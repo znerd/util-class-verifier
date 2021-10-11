@@ -1,4 +1,4 @@
-package com.znerd.utilclassverifier.internal;
+package org.znerd.utilclassverifier.internal;
 
 import static java.lang.reflect.Modifier.isAbstract;
 import static java.lang.reflect.Modifier.isFinal;
@@ -6,7 +6,7 @@ import static java.lang.reflect.Modifier.isInterface;
 import static java.lang.reflect.Modifier.isPrivate;
 import static java.util.Objects.requireNonNull;
 
-import com.znerd.utilclassverifier.Checker;
+import org.znerd.utilclassverifier.Checker;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;

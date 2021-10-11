@@ -1,4 +1,4 @@
-package com.znerd.utilclassverifier;
+package org.znerd.utilclassverifier;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.fail;
