@@ -9,6 +9,26 @@
     <version>${BUILD_VERSION}</version>
 
     <name>Utility Class Verifier</name>
+    <description>Helper for unit testing Java utility classes.</description>
+    <url>https://github.com/znerd/${artifactId}</url>
+
+    <inceptionYear>2021</inceptionYear>
+
+    <licenses>
+        <license>
+            <name>The BSD 2-Clause License</name>
+            <url>http://www.opensource.org/licenses/bsd-license.php</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>znerd</id>
+            <name>Ernst de Haan</name>
+            <email>ernst@ernstdehaan.com</email>
+        </developer>
+    </developers>
 
     <scm>
         <connection>scm:git:git@github.com:znerd/${project.artifactId}.git</connection>
